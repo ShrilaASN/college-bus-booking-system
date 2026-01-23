@@ -4,10 +4,10 @@ The system allows authorized users to book buses, generate unique PNR and Refere
 It uses MySQL as the backend database to store and retrieve booking details securely. 
 This system reduces manual work, improves accuracy, and provides an organized approach to bus management.
 ## TECHNOLOGIES USED
-Frontend: Java Swing, AWT
-Backend: MySQL 
-Connectivity: JDBC
-Tools: Apache NetBeans, MySQL Workbench
+### Frontend: Java Swing, AWT
+### Backend: MySQL 
+### Connectivity: JDBC
+### Tools: Apache NetBeans, MySQL Workbench
 ## CONCEPTS USED
 ### Object-Oriented Programming (OOP):
 Classes and objects used for modular design
