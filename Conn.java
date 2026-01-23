@@ -9,10 +9,11 @@ public class Conn {
     public Conn() {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
-            c = DriverManager.getConnection("jdbc:mysql:///BusManagementSystem", "root", "shinky@1405");
+            c = DriverManager.getConnection("jdbc:mysql:///BusManagementSystem", "root", "password");
             s = c.createStatement();
         } catch(Exception e) {
             e.printStackTrace();
         }    
     }        
 }
+
