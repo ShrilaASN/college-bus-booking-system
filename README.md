@@ -103,7 +103,6 @@ git clone https://github.com/your-username/college-bus-booking-system.git
 # Configure MySQL Database
 # Update JDBC credentials
 # Run the project
----
 
 ## 🚀 Future Enhancements
 
@@ -113,83 +112,13 @@ git clone https://github.com/your-username/college-bus-booking-system.git
 * 👥 Multi-user login system
 * 📊 Admin dashboard
 
----
 
 ## 🤝 Contributing
-
 Contributions are welcome!
 Feel free to fork the repo and submit a pull request.
 
----
-
 ## 📜 License
-
 This project is licensed under the **MIT License**
 
----
-
 ## ⭐ Support
-
 If you like this project, give it a ⭐ on GitHub!
-
----
-
-### 🔥 Why this is better
-
-* Badges give **instant visual info about tech & status** ([ravibaghel.com][1])
-* Clean sections improve readability (important for project impression) ([Wikipedia][2])
-* Structured README increases discoverability and professionalism
-
----
-
-If you want next upgrade, I can:
-
-* Add **GitHub stats (stars, forks, profile badges)**
-* Create a **killer demo GIF section**
-* Or make it **resume/placement optimized (VERY useful for you)**
-
-[1]: https://www.ravibaghel.com/blog/crafting-the-perfect-github-readme-best-practices-in-markdown/?utm_source=chatgpt.com "Crafting the Perfect GitHub README: Best Practices in ..."
-[2]: https://en.wikipedia.org/wiki/README?utm_source=chatgpt.com "README"
-
-
-
-
-# college-bus-booking-system
-The College Bus Booking System is a Java-based desktop application designed to manage college transportation efficiently.
-The system allows authorized users to book buses, generate unique PNR and Reference ID, and cancel bookings easily.
-It uses MySQL as the backend database to store and retrieve booking details securely. 
-This system reduces manual work, improves accuracy, and provides an organized approach to bus management.
-## TECHNOLOGIES USED
-### Frontend: Java Swing, AWT
-### Backend: MySQL 
-### Connectivity: JDBC
-### Tools: Apache NetBeans, MySQL Workbench
-## CONCEPTS USED
-### Object-Oriented Programming (OOP):
-Classes and objects used for modular design
-Improves code reusability and maintainability
-### Java Swing (GUI Programming):
-Used to design user interface
-Components like JFrame,  JButton,  JLabel,  Jtable
-### Event Handling:
-ActionListener handles button click events
-Enables user interaction with the system
-### Database Management System (DBMS):
-MySQL used for data storage
-Ensures structured and secure data management
-### JDBC (Java Database Connectivity):
-Connects Java application with MySQL database
-Executes SQL queries from Java
-### SQL (Structured Query Language):
-Used for insert, update, delete, and select operations
-Manages booking and cancellation data
-### Modular Programming:
-Application divided into multiple functional modules
-Improves readability and scalability
-### Exception Handling:
-try-catch blocks handle runtime errors
-Prevents system crashes
-### MVC Architecture (Basic):
-Model: MySQL Database 
-View: Java Swing UI 
-Controller: Java application logic
